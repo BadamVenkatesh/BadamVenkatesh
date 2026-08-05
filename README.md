@@ -1,98 +1,105 @@
-<!-- Animated Header -->
-<h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">, I'm <b>Badam Venkatesh</b>
-</h1>
+<div align="center">
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Competitive+Programmer;AI+%26+GenAI+Enthusiast;B.Tech+CSE+%40+RGUKT+Basar;600%2B+DSA+Problems+Solved" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Final-Year+CS+Undergrad;Distributed+Backend+Systems+Engineer;Building+with+Applied+GenAI;1000%2B+DSA+Problems+Solved" alt="Typing SVG" />
+
+<p>
+  <a href="https://badam-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/badamvenkatesh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:b210424@rgukt.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
+</div>
+
+<br>
 
 ## 🧠 About Me
 
-I’m a **third-year Computer Science student** who loves building scalable systems and solving complex problems through code. My journey blends **competitive programming**, **full-stack development**, and **AI-driven applications**, giving me a strong balance of theory and real-world execution.
+- 🏗️ Final-year CS undergrad @ RGUKT Basar — CGPA **9.63**, Rank 1 university-wide
+- 🔧 Building distributed, event-driven backend systems (microservices, Saga orchestration, API gateways)
+- 🤖 Shipping GenAI features that are grounded, not hallucinated (RAG, catalog-grounded prompting)
+- 🏆 1000+ DSA problems solved · 2× Flipkart GRiD National Semi-Finalist
+- 🎯 Open to full-time SDE / Backend Engineering roles
 
-- 🚀 Turning ideas into **impactful products**
-- 🧩 Strong **DSA & problem-solving mindset**
-- 💡 Exploring **AI, GenAI & system design**
-- 🤝 Enjoy collaborating and mentoring peers
-- 🎯 Goal: **Well-rounded Software Engineer (AI + Systems + Web)**
+<br>
 
----
+## 🛠️ Tech Stack
 
-## 🏆 Competitive Programming Journey ⚡
+<div align="center">
 
-- 🧠 **600+ DSA problems solved** (LeetCode)
-- 🥇 **Flipkart Grid 7.0 – National Semi-Finalist**
-- 💻 Primary CP Language: **C++**
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" />
 
----
+**Backend & Systems**
+<br>
+<img src="https://skillicons.dev/icons?i=spring,fastapi,kafka,nodejs,mysql,mongodb" />
 
-## 💼 Tech Stack & Tools 🛠️
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind" />
 
-### 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,c,js" />
-</p>
+**DevOps & Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,git,jenkins,linux,postman" />
 
-### 🌐 Web & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring" />
-</p>
+**AI / GenAI**
+<br>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge" />
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
-</p>
+</div>
 
-### 🤖 AI / GenAI
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+<br>
 
----
-
-## 🚀 Featured Projects ✨
+## 🚀 Featured Projects
 
 | Project | Description | Tech |
-|-------|------------|------|
-| 🤖 **BUJJI – AI Friend** | 3D AI avatar with emotions & conversation | React, Three.js, Node |
-| 🧠 **TunedIn** | AI hackathon recommender | Python, Streamlit, Groq |
-| 🛒 **Afflicartz** | Cashback & affiliate platform | React, Flutter |
-| 📊 **Track & Save** | Expense tracker | React, Tailwind |
-| 🌐 **Portfolio** | Developer portfolio | React |
+|---|---|---|
+| 🛒 [StyleHub](#) | Distributed salon booking platform — 10 microservices, Saga orchestration, AI style-matching consultant | `Spring Boot` `RabbitMQ` `Keycloak` `React` |
+| 🔍 [SK2FACE](#) | Forensic sketch-to-face matching system with ResNet-50 Siamese network | `Spring Cloud Gateway` `FastAPI` `TensorFlow` |
+| 🧠 [TunedIn](#) | AI-powered hackathon recommender using RAG + vector search | `Python` `LangChain` `Chroma` `Groq` |
+| 🤖 [VIBE](#) | Emotionally intelligent 3D AI companion for stress & anxiety support | `React` `Three.js` `Node.js` |
+| 🧬 [PathoLens.ai](#) | Predicts disease-causing gene variants using the evo2 model | `React` `Genomics` `AI` |
+| 🛍️ [Afflicartz](#) | Cashback & affiliate marketing app across mobile and web | `Flutter` `React` |
+| 🌐 [Portfolio](#) | Personal developer portfolio | `React` `Tailwind` |
 
----
+<br>
 
-## 🎓 Education 🎓
+## 📊 GitHub Stats
 
-**RGUKT Basar** — B.Tech Computer Science (2023–2027)  
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=BadamVenkatesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BadamVenkatesh&theme=tokyonight&hide_border=true" width="48%" />
+</div>
 
----
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadamVenkatesh&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+</div>
 
-## 📜 Certifications 🏅
+<br>
 
-- 🎓 **Machine Learning Specialization** — Andrew Ng (Coursera)
+## 🏆 Competitive Programming
 
----
+<div align="center">
 
-## 📫 Connect With Me 🤝
+![LeetCode](https://img.shields.io/badge/LeetCode-Top%201.4%25%20(2134)-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Codeforces-Pupil%20(1313)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
+![CodeChef](https://img.shields.io/badge/CodeChef-3★%20(1692)-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![AtCoder](https://img.shields.io/badge/AtCoder-Top%207.85%25-000000?style=for-the-badge)
 
-<p align="center">
-  <a href="https://badam-portfolio.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="mailto:b210424@rgukt.ac.in">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/BadamVenkatesh">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  </a>
-</p>
+</div>
 
----
+<br>
 
+## 🎓 Education & Certifications
 
-⭐ *Always curious. Always building. Always improving.*
+**RGUKT Basar** — B.Tech CS (2023–2027) · CGPA 9.63 · Rank 1
+**Machine Learning Specialization** — Andrew Ng, Coursera
+
+<br>
+
+<div align="center">
+⭐ Always curious. Always building. Always improving.
+</div>
