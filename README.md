@@ -1,3 +1,7 @@
+<!-- Animated Header -->
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">, I'm <b>Badam Venkatesh</b>
+</h1>
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Final-Year+CS+Undergrad;Distributed+Backend+Systems+Engineer;Building+with+Applied+GenAI;1000%2B+DSA+Problems+Solved" alt="Typing SVG" />
@@ -67,18 +71,6 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BadamVenkatesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BadamVenkatesh&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadamVenkatesh&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
-</div>
-
-<br>
 
 ## 🏆 Competitive Programming
 
@@ -96,6 +88,7 @@
 ## 🎓 Education & Certifications
 
 **RGUKT Basar** — B.Tech CS (2023–2027) · CGPA 9.63 · Rank 1
+<br>
 **Machine Learning Specialization** — Andrew Ng, Coursera
 
 <br>
