@@ -61,13 +61,13 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🛒 [StyleHub](#) | Distributed salon booking platform — 10 microservices, Saga orchestration, AI style-matching consultant | `Spring Boot` `RabbitMQ` `Keycloak` `React` |
-| 🔍 [SK2FACE](#) | Forensic sketch-to-face matching system with ResNet-50 Siamese network | `Spring Cloud Gateway` `FastAPI` `TensorFlow` |
-| 🧠 [TunedIn](#) | AI-powered hackathon recommender using RAG + vector search | `Python` `LangChain` `Chroma` `Groq` |
-| 🤖 [VIBE](#) | Emotionally intelligent 3D AI companion for stress & anxiety support | `React` `Three.js` `Node.js` |
-| 🧬 [PathoLens.ai](#) | Predicts disease-causing gene variants using the evo2 model | `React` `Genomics` `AI` |
+| 🛒 [StyleHub](https://github.com/BadamVenkatesh/StyleHub_Backend) | Distributed salon booking platform — 10 microservices, Saga orchestration, AI style-matching consultant | `Spring Boot` `RabbitMQ` `Keycloak` `React` |
+| 🔍 [SK2FACE](https://github.com/BadamVenkatesh/sk2face-backend) | Forensic sketch-to-face matching system with ResNet-50 Siamese network | `Spring Cloud Gateway` `FastAPI` `TensorFlow` |
+| 🧠 [TunedIn](https://github.com/BadamVenkatesh/TunedIn) | AI-powered hackathon recommender using RAG + vector search | `Python` `LangChain` `Chroma` `Groq` |
+| 🤖 [VIBE](https://github.com/BadamVenkatesh/VIBE-2.0-Backend) | Emotionally intelligent 3D AI companion for stress & anxiety support | `React` `Three.js` `Node.js` |
+| 🧬 [PathoLens.ai](https://github.com/BadamVenkatesh/PathoLens.ai-Frontend) | Predicts disease-causing gene variants using the evo2 model | `React` `Genomics` `AI` |
 | 🛍️ [Afflicartz](#) | Cashback & affiliate marketing app across mobile and web | `Flutter` `React` |
-| 🌐 [Portfolio](#) | Personal developer portfolio | `React` `Tailwind` |
+| 🌐 [Portfolio](https://github.com/BadamVenkatesh/PORTFOLIO) | Personal developer portfolio | `React` `Tailwind` |
 
 <br>
 
